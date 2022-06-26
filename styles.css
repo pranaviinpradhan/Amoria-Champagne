@@ -196,3 +196,9 @@ body h2{
       padding: 8px;
   }
 
+@media screen and (max-width: 800px) {
+    .body, .nav, .part2, .button-34, .about, .footer, .info, .contact, .end
+    {
+        width: 100%;
+    }
+
