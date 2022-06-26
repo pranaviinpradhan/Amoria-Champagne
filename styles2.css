@@ -99,3 +99,8 @@
     padding: 20px 25px ;
     margin-left: 660px;
 }
+
+@media screen and (max-width: 800px) {
+    .nav, .button-34, .part2, .but
+        width: 100%;
+    }
